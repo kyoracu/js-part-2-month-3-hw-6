@@ -1,0 +1,40 @@
+body{
+    background-color:aliceblue;
+}
+
+    #container{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+
+    .blocks{
+        text-align: center;
+        width: 22%;
+        height: 320px;
+        border: black 2px solid;
+       
+    }
+
+    form{
+        width:200px;
+        margin: auto;
+    }
+    #containers{
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+p{
+font-size: 17px;
+}
+    #input{
+        width: 150px;
+        font-family: sans-serif;
+    }
+
+    #button{
+     margin-left: 37px;
+     font-family: sans-serif;
+     color: black;
+    }
